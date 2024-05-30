@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(to right, lightslategray, grey, lightslategray);
+}
+
+h1{
+    background-color: red;
+    font-family:cursive;
+    color: black;
+}
+
+img{
+    width: 900px;
+    height: 900px;
+}
+
+.stas{
+    float: left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 900px;
+    height: 900px;
+    font-size: 37px;
+}
+
+.stas1 img{
+    float: right;
+    width: 1200px;
+    height: 900px;
+    padding-right: 25px;
+}
+
+.stas2 {
+    position: absolute;
+}
